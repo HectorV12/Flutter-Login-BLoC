@@ -1,7 +1,7 @@
-# login_bloc
+# Flutter login_bloc
 
-A new Flutter application.
-
+A Flutter application of a Login Screen with the BLoC pattern.
+ 
 ## Getting Started
 
 For help getting started with Flutter, view our online
